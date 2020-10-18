@@ -1,0 +1,10 @@
+Правильная ссылка: http://91.210.252.240/broken-links/index.html 200
+Правильная ссылка: http://91.210.252.240/broken-links/about.html 200
+Правильная ссылка: http://91.210.252.240/broken-links/work.html 200
+Правильная ссылка: http://91.210.252.240/broken-links/pricing.html 200
+Правильная ссылка: http://91.210.252.240/broken-links/blog.html 200
+Правильная ссылка: http://91.210.252.240/broken-links/contact.html 200
+Правильная ссылка: http://91.210.252.240/broken-links/ 200
+Правильная ссылка: http://91.210.252.240/broken-links/blog-single.html 200
+Найдено ссылок:19
+Дата: 2020-10-19 02:08:10.406604
