@@ -1,0 +1,41 @@
+Font	Size	Font style	Font color	Underline	Underline color	Strikethrough	Double strikethrough	Superscript	Subscript	Small caps	All caps	Align height of characters	Offset
+Courier	1	bold italic	white	line	white	true	false	false	false	true	false	false	0
+Times New Roman	1	bold	black	none	none	false	false	true	false	false	false	true	1
+Courier	1	bold italic	black	wavy	white	false	true	false	true	false	true	true	-1
+Calibri	12	italic	red	dotted	white	false	true	true	false	false	true	false	100
+Calibri	20	usual	black	wavy	red	false	true	false	true	false	true	true	-50
+Times New Roman	20	bold	black	wavy	white	false	true	true	false	true	false	false	50
+Times New Roman	1	usual	black	dotted	red	true	false	true	false	false	true	false	50
+Courier	20	bold italic	white	line	black	false	true	true	false	true	false	false	100
+Calibri	70	bold italic	white	none	none	false	true	true	false	false	false	false	1
+Courier	20	bold	red	wavy	none	false	true	false	true	true	false	true	-50
+Calibri	70	usual	red	line	white	false	true	true	false	true	false	false	50
+Times New Roman	12	bold italic	white	dotted	none	false	true	false	true	true	false	true	-100
+Arial	1	bold	white	wavy	red	false	true	false	true	false	true	false	-100
+Verdana	20	bold	white	dotted	red	false	true	true	false	false	true	true	100
+Arial	20	bold	white	none	none	true	false	false	true	true	false	false	-1
+Verdana	70	bold italic	red	none	none	true	false	true	false	false	true	true	50
+Times New Roman	70	italic	black	line	red	false	true	false	true	true	false	true	-50
+Verdana	20	italic	black	wavy	white	true	false	false	true	false	true	false	-100
+Courier	12	italic	red	none	none	false	false	false	false	false	false	true	0
+Courier	70	italic	white	dotted	red	false	true	true	false	true	false	false	50
+Times New Roman	1	usual	black	none	none	false	false	true	false	false	true	true	100
+Arial	12	italic	red	wavy	black	true	false	true	false	true	false	true	1
+Calibri	1	bold	black	dotted	red	true	false	false	false	false	true	false	0
+Arial	70	bold	black	wavy	red	true	false	false	false	false	true	false	0
+Verdana	1	italic	red	line	none	false	true	false	true	false	false	false	-1
+Calibri	1	italic	red	none	none	false	true	false	true	true	false	true	-50
+Arial	20	bold italic	red	dotted	white	false	true	false	true	false	true	false	-50
+Arial	20	usual	red	line	none	true	false	false	false	false	false	false	0
+Calibri	12	bold italic	white	wavy	red	false	true	false	true	false	false	false	-1
+Courier	20	usual	black	none	none	false	true	false	true	true	false	false	-100
+Times New Roman	70	usual	red	dotted	black	false	true	false	true	false	true	true	-1
+Verdana	12	bold	black	line	black	false	true	false	false	false	true	true	0
+Arial	12	italic	white	line	black	true	false	true	false	false	true	false	50
+Times New Roman	1	italic	white	wavy	black	true	false	false	false	false	false	false	0
+Courier	70	italic	red	wavy	red	true	false	false	true	false	true	false	-100
+Calibri	12	usual	white	line	black	false	true	false	true	false	true	false	-100
+Verdana	12	bold	white	dotted	black	true	false	false	true	true	false	true	-50
+Verdana	20	usual	white	dotted	red	false	true	true	false	false	true	false	1
+Arial	70	usual	white	wavy	red	true	false	true	false	true	false	false	100
+Courier	12	usual	black	line	white	false	true	true	false	false	false	true	1
