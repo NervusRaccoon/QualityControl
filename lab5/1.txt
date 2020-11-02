@@ -1,5 +1,5 @@
-Font: Arial, Calibri, Courier, Times New Roman, Verdana
-Size: 1, 12, 20, 70
+Font: Arial, Times New Roman, Mistral, Arial Black
+Size: 1, 13.5, 2000, 4000
 Font style: usual, italic, bold, bold italic
 Font color: black, white, red
 Underline: none, line, dotted, wavy
